@@ -29,4 +29,4 @@ AgileAI Assistant helps software teams with 6 AI-powered features:
                      
                       - ## Team
                      
-                      - 2 elements — Product Owner / Scrum Master + DevOps Lead
+                      - 2 elements-Product Owner / Scrum Master + DevOps Lead
