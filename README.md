@@ -1,7 +1,7 @@
 # AgileAI Assistant
-AI-powered assistant for Agile and DevOps teams - powered by Anthropic Claude.
+AI-powered assistant for Agile and DevOps teams - 
 
-**Mestrado em Informática e Gestão · ISCTE-IUL · 2025/2026**
+**Mestrado em Informática e Gestão · 2025/2026**
 
 ## What it does
 
